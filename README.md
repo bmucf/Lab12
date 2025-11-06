@@ -1,4 +1,10 @@
-# Lab12
-Tools and Plugins Lab #12
+# Lab #12
+## For Game Design Tools and Plugins
 
-11/6/2025, Brian Mosquera - Began project. Created an inventory that is randomized at runtime, and finished the first task: Linear Searching By Name.
+### Progress
+**11/6/2025, BM** - Began project, created an inventory with certain randomized elements, finished Task 1: Linear Search By Name.
+
+### To Do List
+- Further randomize the generated inventory
+- Task 2
+- Task 3
